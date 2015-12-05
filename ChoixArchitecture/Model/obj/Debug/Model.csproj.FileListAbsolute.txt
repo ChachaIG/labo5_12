@@ -1,0 +1,10 @@
+C:\WrkFldr\sceance 3\ChoixArchitecture\Model\bin\Debug\Model.dll.config
+C:\WrkFldr\sceance 3\ChoixArchitecture\Model\bin\Debug\Model.dll
+C:\WrkFldr\sceance 3\ChoixArchitecture\Model\bin\Debug\Model.pdb
+C:\WrkFldr\sceance 3\ChoixArchitecture\Model\bin\Debug\EntityFramework.dll
+C:\WrkFldr\sceance 3\ChoixArchitecture\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\WrkFldr\sceance 3\ChoixArchitecture\Model\bin\Debug\EntityFramework.xml
+C:\WrkFldr\sceance 3\ChoixArchitecture\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\WrkFldr\sceance 3\ChoixArchitecture\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\WrkFldr\sceance 3\ChoixArchitecture\Model\obj\Debug\Model.dll
+C:\WrkFldr\sceance 3\ChoixArchitecture\Model\obj\Debug\Model.pdb
